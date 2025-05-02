@@ -1,5 +1,7 @@
 # Multi-Model Chat App
 
+![App UI](multi-model-chat/public/APP.png)
+
 A web application for interacting with multiple AI models via a chat interface. The project consists of a Python backend API and a React/Next.js frontend.
 
 ---
